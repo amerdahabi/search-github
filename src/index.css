@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-item {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+.input {
+  margin: 10px;
+  height: 2rem;
+}
+
+.header {
+  background-image: linear-gradient(
+      to bottom right,
+      rgba(0, 0, 0, 1.8) 0%,
+      rgba(0, 0, 0, 0.4) 50%
+    ),
+    url(https://zdnet3.cbsistatic.com/hub/i/2018/10/18/580b4d43-4060-4d90-be23-1f97ef795e4e/github-logo.png);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.title {
+  color: white;
+}
