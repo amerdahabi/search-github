@@ -1,6 +1,8 @@
 # search-github
-Search github users / React 
+Search github users. 
 
-development ongoing
+Built with:
 
-React, BootStrap
+React, BootStrap.
+
+Visit site: https://app-meal-sharing.herokuapp.com/
